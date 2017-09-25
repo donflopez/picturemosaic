@@ -1,0 +1,21 @@
+{
+  "name": "mosaic0",
+  "version": "1.0.0",
+  "description": "Serlverless mosaic endpoint for use with webtask.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mosaic",
+    "webtask",
+    "jimp",
+    "serverless"
+  ],
+  "author": "Francisco López <donflopez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "ramda": "^0.24.1"
+  }
+}
